@@ -4,7 +4,7 @@ const MobileMenuSearch = () => {
   return (
     <div className="offcanvas-mobile-menu__search">
       <form>
-        <input type="search" placeholder="搜尋" />
+        <input type="search" placeholder="Search" />
         <button type="submit">
           <IoIosSearch />
         </button>

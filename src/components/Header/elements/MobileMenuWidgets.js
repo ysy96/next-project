@@ -21,7 +21,7 @@ const MobileMenuWidgets = () => {
               href="/other/login-register"
               as={process.env.PUBLIC_URL + "/other/login-register"}
             >
-              <a>登入/ 註冊</a>
+              <a>Login/ SignUp</a>
             </Link>
           </li>
           <li>
