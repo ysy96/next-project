@@ -19,7 +19,7 @@ const ShopFilter = ({ products, getSortParams }) => {
         <Row>
           <Col lg={3} md={6} className="space-mb-mobile-only--30">
             <div className="single-filter-widget">
-              <h2 className="single-filter-widget__title">類別</h2>
+              <h2 className="single-filter-widget__title">Category</h2>
 
               {categories.length > 0 ? (
                 <ul className="single-filter-widget__list">
