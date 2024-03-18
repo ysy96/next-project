@@ -96,7 +96,7 @@ const Contact = () => {
                 <div className="google-map">
                   <iframe
                     title="map"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.0283960938687!2d121.55752521500624!3d25.033110383972716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442abc9fd9c1aeb%3A0xdf45878319a2ade1!2zMTEw5Y-w5YyX5biC5L-h576p5Y2A5Z-66ZqG6Lev5LiA5q61ODg46Jmf!5e0!3m2!1szh-TW!2stw!4v1644293079865!5m2!1szh-TW!2stw"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d101408.22813446725!2d-122.16384014717192!3d37.413306386591245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb7495bec0189%3A0x7c17d44a466baf9b!2sMountain%20View%2C%20CA!5e0!3m2!1sen!2sus!4v1710720965304!5m2!1sen!2sus"
                     allowFullScreen
                   />
                 </div>
